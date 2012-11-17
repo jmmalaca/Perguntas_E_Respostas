@@ -1,0 +1,16 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollViewLocal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <TableLayout
+        android:id="@+id/localTable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dip"
+        android:scrollbars="vertical"
+        android:stretchColumns="*"
+        tools:ignore="UselessParent" >
+    </TableLayout>
+</ScrollView>

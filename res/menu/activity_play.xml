@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group_ajudas">
+        <item android:id="@+id/ajuda_phone"
+            android:icon="@drawable/phone"
+              android:title="@string/ajudaPhone" />
+        
+        <item android:id="@+id/ajuda_50"
+            android:icon="@drawable/help50"
+              android:title="@string/ajuda50" />
+        
+        <item android:id="@+id/ajuda_audience"
+            android:icon="@drawable/audience"
+              android:title="@string/ajudaAudience" />
+    </group>
+</menu>

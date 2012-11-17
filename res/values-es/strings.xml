@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="app_name">Perguntas_E_Respostas</string>
+    <string name="tituloMain">PRINCIPAL</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title1">Jugar</string>
+    <string name="title2">Puntages</string>
+    <string name="title3">Ajustes</string>
+    <string name="botao_jogar">Jugar</string>
+    <string name="botao_score">Puntages</string>
+    <string name="botao_settings">Ajustes</string>
+    <string name="description_question_marks">desc_question_marks</string>
+    <string name="cabecera_main_text">PRINCIPAL</string>
+    <string name="botao_creditos">Créditos</string>
+    <string name="cabecera_credits">CRÉDITOS</string>
+    <string name="credits_text_1">WHO WANTS TO BE A MILLIONAIRE</string>
+    <string name="titulo_play">JUGAR</string>
+    <string name="titulo_scores">PUNTAGES</string>
+    <string name="titulo_settings">AJUSTES</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="title_activity_scores">ScoresActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_credits">CreditsActivity</string>
+    <string name="menu_main_credits">Créditos</string>
+    <string name="Nome">Nombre:</string>
+    <string name="inserirNome">Nuestro nombre</string>
+    <string name="numHelpsText">Seleccione cuántas veces usted puede pedir ayuda</string>
+    <string name="adicionaFriend">Agregar amigo</string>
+    <string name="ourFName">Nuestro amigo el nombre</string>
+    <string name="title_activity_local_scores">ResultadosLocales</string>
+    <string name="title_activity_friends_scores">AmigosPuntuaciones</string>
+    <string name="local">Local</string>
+    <string name="friends">Amigos</string>
+    <string name="playFor">Jugar:</string>
+    <string name="numMoney">0</string>
+    <string name="forMoney">$</string>
+    <string name="questionNr">Cuestión: </string>
+    <string name="numPergunta">1</string>
+    <string name="hinTpergunta">Cuestión</string>
+    <string name="respostaP1">Responder 1</string>
+    <string name="respostaP2">Responder 2</string>
+    <string name="respostaP3">Responder 3</string>
+    <string name="respostaP4">Responder 4</string>
+    <string name="ajudaPhone">Teléfono</string>
+    <string name="ajuda50">50%</string>
+    <string name="ajudaAudience">Audiencia</string>
+    <string name="autor">Autor: José Miguel Malaca</string>
+    <string name="mail">Mail: jsemaar@inf.upv.es</string>
+    <string name="delete">Borrar</string>
+    
+
+</resources>
